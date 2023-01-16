@@ -4,7 +4,6 @@
 - 😄 Pronouns: ele/dele
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoribeiroleo&show_icons=true&theme=tokyonight)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigoribeiroleo&repo=github-readme-stats)](https://github.com/rodrigoribeiroleo/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
