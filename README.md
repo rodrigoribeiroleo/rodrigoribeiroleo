@@ -1,6 +1,6 @@
-## Hello World! Eu sou o Rodrigo Ribeiro
+## Hello World! I'm Rodrigo Ribeiro
 
-- 🌱 Estudando HTML, CSS, JS e Python
+- 🌱 Learning HTML, CSS, JS e Python
 - 😄 Pronouns: ele/dele
 
 ![Rodrigo's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=rodrigoribeiroleo&show_icons=true&theme=tokyonight)
