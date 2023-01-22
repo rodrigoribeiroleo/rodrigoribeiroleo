@@ -3,17 +3,13 @@
 - 🌱 Learning HTML, CSS, JS e Python
 - 😄 Pronouns: ele/dele
 
-![Rodrigo's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=rodrigoribeiroleo&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=rodrigoribeiroleo)](https://github.com/rodrigoribeiroleo/github-readme-stats)
-
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoribeiroleo&show_icons=true&theme=tokyonight)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rodrigo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rodrigo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
-  
 <div> 
   
   ##
