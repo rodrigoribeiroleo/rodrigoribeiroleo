@@ -1,7 +1,7 @@
 ## Hello World! I'm Rodrigo Ribeiro
 
-- 🌱 Learning HTML, CSS, JS e Python
-- 😄 Pronouns: ele/dele
+- 🌱 Learning HTML, CSS, JS, Java and Python
+- 😄 Pronouns: he/him
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoribeiroleo&show_icons=true&theme=tokyonight)
 
